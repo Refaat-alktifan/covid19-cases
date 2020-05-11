@@ -1,6 +1,6 @@
 # covid19-cases
 
-[![N|Solid](http://covid19-cases.org/files/uploads/1589190959.png)](https://covid19-cases.org/products/nsolid)
+[![N|Solid](https://github.com/Refaat-alktifan/covid19-cases/blob/master/uploads/1589190959.png)](https://covid19-cases.org/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
