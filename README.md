@@ -2,8 +2,6 @@
 
 [![N|Solid](https://github.com/Refaat-alktifan/covid19-cases/blob/master/uploads/1589190959.png)](https://covid19-cases.org/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 covid19-cases – Coronavirus Live Map – This script developed for all types of Corona virus-infected countries report. This report automatically generates data from trusted API sources like World Helth Organization.
 
 # Source And Credits
